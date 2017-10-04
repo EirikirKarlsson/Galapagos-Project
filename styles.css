@@ -1,0 +1,43 @@
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+   text-align: center; color: #01295f;
+}
+
+h1 {
+   background-color: #f18f01; color: #01295f;
+}
+
+h2 {
+  text-align: center; color: #726da8;
+}
+
+h2 {
+   background-color: #dbd56e;
+}
+body {
+  background-color: #ffffff;
+}
+
+p {
+  color: #01295f;
+}
+
+p {
+   background-color: #726DA8;
+}
+
+p {
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+i {
+  color: #f9ab55;
+}
+.Directory_Images {
+  width: 2300px;
+  margin: 0 auto 0 auto;
+  display: inline-block;
+}
