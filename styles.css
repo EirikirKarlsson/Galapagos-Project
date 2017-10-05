@@ -36,8 +36,9 @@ p {
 i {
   color: #f9ab55;
 }
-.Directory_Images {
-  width: 2300px;
+
+.menu_images {
+  width: 1300px;
   margin: 0 auto 0 auto;
   display: inline-block;
 }
