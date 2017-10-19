@@ -38,7 +38,5 @@ i {
 }
 
 .menu_images {
-  width: 1300px;
-  margin: 0 auto 0 auto;
-  display: inline-block;
+  display: block;float: left;margin-right: 10px
 }
