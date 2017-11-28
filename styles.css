@@ -37,6 +37,11 @@ i {
   color: #f9ab55;
 }
 
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 .menu_images {
   display: block;float: left;margin-right: 10px
 }
