@@ -22,16 +22,12 @@ body {
 }
 
 p {
+  font-family: "Comic Sans MS", sans-serif;
   color: #01295f;
 }
 
-p {
-   background-color: #726DA8;
-}
 
-p {
-  font-family: "Comic Sans MS", sans-serif;
-}
+
 
 i {
   color: #f9ab55;
