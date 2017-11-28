@@ -37,10 +37,9 @@ i {
   color: #f9ab55;
 }
 
-img.displayed {
-    display: block;
+#map-canvas {
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
   }
 
 .menu_images {
